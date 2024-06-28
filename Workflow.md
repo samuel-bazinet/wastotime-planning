@@ -1,0 +1,6 @@
+[[Read from JSON]]
+[[Create a list of types]]
+[[Create a representation of all the types]]
+[[Create unit tests for each type]]
+[[Populate content of files]]
+[[Create and organize files]]

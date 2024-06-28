@@ -1,0 +1,1 @@
+The key will be the name of the type. It will hold an instance of RawType and a string of the  path to the JSON file from the root of data. The tuple will be wrapped by an Option that will be used in case the user did not create the sub types necessary for the parent type.

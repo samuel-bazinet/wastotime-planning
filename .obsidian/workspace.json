@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "afe4919c0873b82e",
+    "type": "split",
+    "children": [
+      {
+        "id": "75e537a2e126c2f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cd42c9beec63030",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "276cf5df80e0154c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Create a list of types.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "06201af05310197b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e61d2f69e1b09027",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d157cbfd7ecef2f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "439f843310fce7ba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2d0a1d52850a2959",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3b8e63ab385ef7eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "4afa55075a266a6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b33d0c645fe8c56",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "734906f1cdf2ebd9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ddca1e64b19de891",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9f8684119f424bec",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2cd42c9beec63030",
+  "lastOpenFiles": [
+    "Create a list of types.md",
+    "Read from JSON.md",
+    "Workflow.md",
+    "Motivation.md",
+    "Dataflow.md",
+    "Map of Tuple of RawType and location of type.md",
+    "Frontend/Create unit tests for each type.md",
+    "Create a representation of all the types.md",
+    "Frontend/Create and organize files.md",
+    "Primitive types.md",
+    "Index.md",
+    "Frontend",
+    "Frontend/Populate content of files.md",
+    "JSON file format.md",
+    "CollectionType.md",
+    "Challenges.md",
+    "RawType.md",
+    "MidType.md",
+    "Scope of types.md",
+    "JSON.md",
+    "Imports"
+  ]
+}

@@ -1,0 +1,1 @@
+So I want to create messages from jsons. For some reason, I cannot use a "off the shelf" solution for this and must build it myself. This project will take in a JSON file, and spit out code of the desired language.
