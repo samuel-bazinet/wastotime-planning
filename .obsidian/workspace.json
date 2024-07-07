@@ -11,6 +11,18 @@
             "id": "2cd42c9beec63030",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JSON file format.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d28508a7fb30aa78",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {}
             }
@@ -27,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "JSON file format.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "JSON file format.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "JSON file format.md"
+              }
             }
           }
         ]
@@ -150,11 +167,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2cd42c9beec63030",
+  "active": "d28508a7fb30aa78",
   "lastOpenFiles": [
+    "Json Editor/App to write and modify the jsons themselves.md",
+    "JSON file format.md",
+    "Json Editor",
+    "RawType.md",
+    "MidType.md",
+    "Workflow.md",
     "Create a list of types.md",
     "Read from JSON.md",
-    "Workflow.md",
     "Motivation.md",
     "Dataflow.md",
     "Map of Tuple of RawType and location of type.md",
@@ -165,11 +187,8 @@
     "Index.md",
     "Frontend",
     "Frontend/Populate content of files.md",
-    "JSON file format.md",
     "CollectionType.md",
     "Challenges.md",
-    "RawType.md",
-    "MidType.md",
     "Scope of types.md",
     "JSON.md",
     "Imports"

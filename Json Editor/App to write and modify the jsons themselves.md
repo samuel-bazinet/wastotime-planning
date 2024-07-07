@@ -1,0 +1,1 @@
+As an aside, a gui app can be made to create and modify the jsons that will be used by wastotime
